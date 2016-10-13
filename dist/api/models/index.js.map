@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../api/models/index.js"],"names":["database","default","Log"],"mappings":"AAAA,OAAOA,QAAP,MAAqB,uBAArB;;AAEA,SAAQC,WAAWC,GAAnB,QAA6B,OAA7B","file":"index.js","sourcesContent":["import database from '../../config/database';\n\nexport {default as Log} from './log';\n"]}
